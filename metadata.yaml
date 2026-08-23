@@ -2,5 +2,5 @@ homepage: "https://digital.3gen.com.tr/"
 documentation: "https://github.com/3genanalytics/sgtm-ipinfo-geo-variable"
 
 versions:
-  - sha: 3456ba126ed852d2f5df2550b4c12fbf88766af9
+  - sha: c2700aac7cd0184b98c5009b26effdac37a52802
     changeNotes: "Initial release."
