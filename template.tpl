@@ -17,6 +17,9 @@ ___INFO___
   "description": "Returns geographic information for the incoming request IP using the IPinfo API.",
   "containerContexts": [
     "SERVER"
+  ],
+  "categories": [
+    "UTILITY"
   ]
 }
 
