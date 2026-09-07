@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -13,13 +13,10 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "IPinfo Geo Lookup",
+  "displayName": "IPinfo Geo Lookup by 3Gen Analytics",
   "description": "Returns geographic information for the incoming request IP using the IPinfo API.",
   "containerContexts": [
     "SERVER"
-  ],
-  "categories": [
-    "UTILITY"
   ]
 }
 
@@ -425,6 +422,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 23.08.2026 23:58:50
+Created on 07.09.2026 14:29:17
 
 
