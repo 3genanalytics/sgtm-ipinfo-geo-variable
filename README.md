@@ -1,4 +1,4 @@
-# IPinfo Geo Lookup for Server-Side Google Tag Manager
+# IPinfo Geo Lookup by 3Gen Analytics
 
 A Server-Side Google Tag Manager variable template that retrieves geographic information for the incoming request IP address using the IPinfo API.
 
